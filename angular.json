@@ -126,5 +126,8 @@
       }
     }
   },
-  "defaultProject": "form-advanced-third"
+  "defaultProject": "form-advanced-third",
+  "cli": {
+    "analytics": false
+  }
 }
